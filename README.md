@@ -1,7 +1,7 @@
 ## Hello, I'm Shadia Rahman Dipty
 <a href="http://linkedin.com/in/shadia-dipty-392a23289"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m an aspiring cybersecurity and IT professional with hands-on experience in technical support, virtual machines, system troubleshooting, and network configuration. I’m currently completing an internship to further develop my skills in real-world environments.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
