@@ -14,10 +14,10 @@ I'm an aspiring cybersecurity and IT professional with hands-on experience in te
 ## 🎯 Current Focus
 
 - **Cybersecurity Studies**: Bachelor of Information Technology (Cybersecurity) at Federation University
+- - **Career Goal**: SOC Analyst Position in cybersecurity
 - **AI Development**: Working on Nitzutz Health App - Anonymous AI Mental Health Companion
 - **Network Engineering**: Enterprise network design and Cisco Packet Tracer implementations
 - **IT Support**: Gaining practical experience in help desk and technical support
-- **Career Goal**: SOC Analyst Position in cybersecurity
 
 ## 💼 Current Work Experience
 
@@ -154,7 +154,6 @@ I'm an aspiring cybersecurity and IT professional with hands-on experience in te
 ## 📞 Contact Information
 
 - **Email**: diptyshadiarahman@gmail.com
-- **Phone**: 0478703205
 - **LinkedIn**: [in/shadia-dipty-392a23289](https://www.linkedin.com/in/shadia-dipty-392a23289)
 - **Location**: Sydney, NSW, Australia
 
