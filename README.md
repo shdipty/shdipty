@@ -14,7 +14,7 @@ I'm an aspiring cybersecurity and IT professional with hands-on experience in te
 ## 🎯 Current Focus
 
 - **Cybersecurity Studies**: Bachelor of Information Technology (Cybersecurity) at Federation University
-- - **Career Goal**: SOC Analyst Position in cybersecurity
+- **Career Goal**: SOC Analyst Position in cybersecurity
 - **AI Development**: Working on Nitzutz Health App - Anonymous AI Mental Health Companion
 - **Network Engineering**: Enterprise network design and Cisco Packet Tracer implementations
 - **IT Support**: Gaining practical experience in help desk and technical support
@@ -83,7 +83,7 @@ I'm an aspiring cybersecurity and IT professional with hands-on experience in te
 
 - **Google Cyber Security Professional Certification**
 - **Google IT Support Certificate**
-- **CompTIA A+** (In Progress)
+- **CompTIA A+** 
 - **Microsoft Certified: Endpoint Administrator Associate** (In Progress)
 
 ## 📁 Featured Projects
