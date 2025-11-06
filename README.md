@@ -13,8 +13,8 @@ I'm an aspiring cybersecurity and IT professional with hands-on experience in te
 
 ## 🎯 Current Focus
 
-- **Cybersecurity Studies**: Bachelor of Information Technology (Cybersecurity) at Federation University
-- **Career Goal**: SOC Analyst Position in cybersecurity
+- **Cybersecurity Studies**: Bachelor of Information Technology (Cybersecurity)
+- **Career Goal**: To build a successful career in cybersecurity and information
 - **AI Development**: Working on Nitzutz Health App - Anonymous AI Mental Health Companion
 - **Network Engineering**: Enterprise network design and Cisco Packet Tracer implementations
 - **IT Support**: Gaining practical experience in help desk and technical support
@@ -124,7 +124,7 @@ I'm an aspiring cybersecurity and IT professional with hands-on experience in te
 
 ## 🎓 Education
 
-**Federation University** - Sydney, NSW
+**Victorian Institute of Technology** - Sydney, NSW
 - Bachelor of Information Technology (Cybersecurity)
 - July 2023 – Present
 - **GPA**: 3.8/4.0
@@ -147,7 +147,7 @@ I'm an aspiring cybersecurity and IT professional with hands-on experience in te
 ## 🎯 Career Goals
 
 - **Short-term**: Gain experience in IT support and cybersecurity
-- **Medium-term**: Become a SOC Analyst
+- **Medium-term**: Advance into a specialised role in cybersecurity or IT infrastructure,
 - **Long-term**: Senior cybersecurity professional
 - **Passion**: Protecting organizations from cyber threats
 
