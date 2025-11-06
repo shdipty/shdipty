@@ -21,7 +21,7 @@ I'm an aspiring cybersecurity and IT professional with hands-on experience in te
 
 ## 💼 Current Work Experience
 
-### 🔐 **Security Engineer Intern at [Nitzutz Health] (https://nitzutzhealth.com.au/)**
+### 🔐  **Security Engineer Intern at [Nitzutz Health](https://nitzutzhealth.com.au/)**  
 **Project**: Healthcare AI Application Security Hardening
 - **Implemented comprehensive security architecture** for healthcare AI application
 - **Designed and deployed encryption protocols** for sensitive mental health data
