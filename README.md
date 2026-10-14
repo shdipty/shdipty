@@ -124,10 +124,10 @@ I'm an aspiring cybersecurity and IT professional with hands-on experience in te
 
 ## 🎓 Education
 
-**Victoria University** - Sydney, NSW
+**Victorian Institute of Technology** - Sydney, NSW
 - Bachelor of Information Technology (Cybersecurity)
-- July 2023 – Present
-- **GPA**: 3.8/4.0
+- July 2023 – July 2026
+- **GPA**: 4.8/5.0
 
 **Relevant Coursework:**
 - Network Security and Cryptography
